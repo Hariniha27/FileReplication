@@ -1,0 +1,7 @@
+Distributed File Replication System Test File
+---------------------------------------------
+This is a sample file created by Hariniha
+to test the file upload and replication process.
+
+If you see this file in node1, node2, and node3 folders after upload,
+then replication is working correctly.
